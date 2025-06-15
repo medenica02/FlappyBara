@@ -1,2 +1,2 @@
-# FlappyBara
-Game inspired by flappy bird and capybaras
+# FlappyBird
+Game inspired by flappy bird.
